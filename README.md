@@ -4,7 +4,7 @@
 
 A Python script which generates abstract drawings. Press space to generate the next figure, and press s to save a larger picture. There are some pictures in folder 'Picture'.
 
-![](https://raw.githubusercontent.com/Mario-Hero/AbsDrawer/main/Picture/pic-27.jpg)
+<img src="https://raw.githubusercontent.com/Mario-Hero/AbsDrawer/main/Picture/pic-27.jpg" style="zoom:30%;" />
 
 ## 依赖 Depedency
 
